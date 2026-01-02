@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Song Research Group</title><link>https://xinsong-lab.github.io/</link><atom:link href="https://xinsong-lab.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Song Research Group</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><image><url>https://xinsong-lab.github.io/media/icon_hu17834410874445591285.png</url><title>Song Research Group</title><link>https://xinsong-lab.github.io/</link></image><item><title>Research</title><link>https://xinsong-lab.github.io/research/</link><pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/research/</guid><description>&lt;h3 id="blood-interfacing-biomaterials">Blood-interfacing Biomaterials&lt;/h3>
+&lt;p>We study how blood interacts with engineered materials under physiological flow and develop interfaces that remain stable, selective, and non-thrombogenic. Our work centers on bio-inspired and anti-coagulant surface designs that reduce non-specific protein adsorption and suppress clot formation during blood circulation. This research supports the development of safer dialysis systems, ECMO circuits, and material platforms for selective blood toxin removal.&lt;/p>
+&lt;h3 id="precision-therapeutic-platforms">Precision Therapeutic Platforms&lt;/h3>
+&lt;p>We design therapeutic platforms that operate across length scales, connecting molecular-level therapeutics with device-level control. By combining external physical fields, including magnetic and acoustic actuation, with intelligent delivery carriers, we guide therapeutic agents through physiological barriers and localize intervention at target sites. Such platform-level integration allows image-guided and spatiotemporally controlled therapy, particularly for complex and deep-seated diseases.&lt;/p>
+&lt;h3 id="biorobotics">Biorobotics&lt;/h3>
+&lt;p>We develop robotic systems inspired by biological organisms and, in some cases, directly powered or guided by living cells. Our research includes bio-inspired and bio-derived microrobots, as well as biohybrid robots that merge synthetic structures with cellular functions. These systems are designed to function in complex biological fluids and environments, supporting minimally invasive intervention, targeted drug delivery, and in vivo sensing.&lt;/p></description></item><item><title>Join us</title><link>https://xinsong-lab.github.io/joinus/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/joinus/</guid><description>&lt;h3 id="join-us">JOIN US&lt;/h3>
+&lt;p>The Song Research Group is actively recruiting highly motivated &lt;strong>Postdoctoral Fellows, Ph.D. students, Research Assistants, Master&amp;rsquo;s students, and Undergraduate students&lt;/strong>. We welcome candidates with diverse academic backgrounds, including but not limited to &lt;strong>Biomedical Engineering, Materials Science, Robotics, Mechanical Engineering&lt;/strong>, and related fields.&lt;/p>
+&lt;p>If you are passionate about research and eager to make an impact, please send your application to &lt;strong>Dr. Xin Song&lt;/strong> via email at &lt;strong>&lt;a href="mailto:xinsong@cityu.edu.hk">xinsong@cityu.edu.hk&lt;/a>&lt;/strong>.&lt;/p>
+&lt;p>&lt;strong>Application Requirements&lt;/strong>: Please use the following format for your email subject line: &lt;strong>[PhD/Postdoc/RA Inquiry] - [Your Name] - [Your Current Institution]&lt;/strong>&lt;/p>
+&lt;p>Please attach the following documents:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>CV&lt;/strong> (including a full list of publications).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Representative papers&lt;/strong> (combined into a single PDF).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Research Summary Slides&lt;/strong> (a brief presentation introducing your past research work).&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Teaching</title><link>https://xinsong-lab.github.io/teaching/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/teaching/</guid><description>&lt;h3 id="teaching">Teaching&lt;/h3>
+&lt;p>I teach undergraduate and postgraduate courses in biomedical engineering, biomaterials, and robotics, with an emphasis on translating fundamental principles into practical healthcare technologies.&lt;/p>
+&lt;h3 id="courses-taught">Courses Taught&lt;/h3>
+&lt;h4 id="20252026--semester-b">2025–2026 · Semester B&lt;/h4>
+&lt;ul>
+&lt;li>Biorobotics (BME6115 / BME8129) &lt;br> Postgraduate course, City University of Hong Kong&lt;/li>
+&lt;li>Biorobotics (BME6115) &lt;br> Postgraduate course, City University of Hong Kong (Dongguan)&lt;/li>
+&lt;/ul>
+&lt;h4 id="20252026--semester-a">2025–2026 · Semester A&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>Advanced Biomaterials for Healthcare and Biomedical Applications (BME6136 / BME8136)&lt;/p>
+&lt;p>Postgraduate course, City University of Hong Kong&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tissue Engineering (BME2104)&lt;/p>
+&lt;p>Undergraduate course, City University of Hong Kong&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="20242025">2024–2025&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>Engineering Design and Applications (MAEG3920)&lt;/p>
+&lt;p>Undergraduate course, The Chinese University of Hong Kong&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://xinsong-lab.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/admin/config.yml</guid><description/></item><item><title>News</title><link>https://xinsong-lab.github.io/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/news/</guid><description>&lt;p>&lt;strong>12/2025:&lt;/strong> Our review paper has been accepted by &lt;em>&lt;strong>Nature Reviews Bioengineering&lt;/strong>&lt;/em>!
+&lt;br>
+&lt;div class="short-code-image " >
+&lt;img src="https://xinsong-lab.github.io/images/news/25.12.png" />
+&lt;/div>&lt;/p>
+&lt;p>&lt;strong>11/2025&lt;/strong>: We are delighted to welcome &lt;strong>Ms. Jieqiong Yang&lt;/strong>, a PhD candidate from our department, to the group.&lt;/p>
+&lt;p>&lt;strong>11/2025&lt;/strong>: A warm welcome to &lt;strong>Mr. Yicheng Xu&lt;/strong>, a Master&amp;rsquo;s student from our department, for joining the group.&lt;/p>
+&lt;p>&lt;strong>10/2025&lt;/strong>: Dr. Song is appointed as a &lt;strong>Youth Editorial Board Member&lt;/strong> for the journal &lt;em>&lt;strong>Regenerative Biomaterials&lt;/strong>&lt;/em> (IF = 8.1).&lt;/p>
+&lt;p>&lt;strong>09/2025&lt;/strong>: Welcome &lt;strong>Dr. Yilin Wang&lt;/strong> (Ph.D. from Sichuan University) joining us as a Postdoctoral Fellow.&lt;/p>
+&lt;p>&lt;strong>09/2025&lt;/strong>: Welcome &lt;strong>Ms. Liman Gong&lt;/strong>, who joins the group as a joint Master&amp;rsquo;s student.&lt;/p>
+&lt;p>&lt;strong>09/2025&lt;/strong>: Big congratulations to &lt;strong>Mr. Junliang Chen&lt;/strong> for commencing his PhD studies with us!&lt;/p>
+&lt;p>&lt;strong>07/2025&lt;/strong>: Dr. Song joins the &lt;strong>Youth Editorial Board&lt;/strong> of &lt;em>&lt;strong>Nano-Micro Letters&lt;/strong>&lt;/em> (IF = 36.3).&lt;/p>
+&lt;p>&lt;strong>07/2025&lt;/strong>: Welcome &lt;strong>Dr. Dongxun Chen&lt;/strong> (Ph.D. from Shandong University) joining us as a Postdoctoral Fellow.&lt;/p>
+&lt;p>&lt;strong>07/2025&lt;/strong>: The collaborative research paper &amp;ldquo;Magnetic nanostickers for active control of interface-enhanced selective bioadhesion&amp;rdquo; is published in &lt;em>&lt;strong>Nature Communications&lt;/strong>&lt;/em>.
+&lt;br>
+&lt;div class="short-code-image " >
+&lt;img src="https://xinsong-lab.github.io/images/news/25.7.png" />
+&lt;/div>&lt;/p>
+&lt;p>&lt;strong>07/2025&lt;/strong>: The collaborative research paper “Permanent magnetic droplet–derived microrobots” has been published in &lt;em>&lt;strong>Science Advances&lt;/strong>&lt;/em>.
+&lt;br>
+&lt;div class="short-code-image " >
+&lt;img src="https://xinsong-lab.github.io/images/news/25.7.1.png" />
+&lt;/div>&lt;/p>
+&lt;p>&lt;strong>06/2025&lt;/strong>: Our paper “Engineering microalgae-based biohybrid robots for biomedical applications” has been published in &lt;em>&lt;strong>Cell Biomaterials&lt;/strong>&lt;/em>!.
+&lt;br>
+&lt;div class="short-code-image " >
+&lt;img src="https://xinsong-lab.github.io/images/news/25.6.png" />
+&lt;/div>&lt;/p>
+&lt;p>&lt;strong>05/2025&lt;/strong>: Our lab has received an Internal Funding Opportunity from City University of Hong Kong. We are grateful for the support!&lt;/p>
+&lt;p>&lt;strong>04/2025&lt;/strong>: Welcome &lt;strong>Mr. Junliang Chen&lt;/strong> (MEng from HIT Shenzhen) joining us as a Research Assistant.&lt;/p>
+&lt;p>&lt;strong>03/2025&lt;/strong>: &amp;ldquo;Our paper “Untethered miniature robots for minimally invasive thrombus treatment: From bench to clinical trials” has been published in &lt;em>&lt;strong>The Innovation&lt;/strong>&lt;/em>!&amp;rdquo;
+&lt;br>
+&lt;div class="short-code-image " >
+&lt;img src="https://xinsong-lab.github.io/images/news/25.3.jpg" />
+&lt;/div>&lt;/p>
+&lt;p>&lt;strong>03/2025&lt;/strong>: &amp;ldquo;Our review paper “Robotic-Assisted Endovascular Embolization: Progress and Future Perspectives” has been published in &lt;em>&lt;strong>Smartbot&lt;/strong>&lt;/em> and selected as the &lt;strong>Inside Front Cover&lt;/strong>!&amp;rdquo;&lt;br>
+&lt;br>
+&lt;div class="short-code-image " >
+&lt;img src="https://xinsong-lab.github.io/images/news/25.3.1.jpg" />
+&lt;/div>&lt;/p>
+&lt;p>&lt;strong>01/2025&lt;/strong>: Dr. Song is invited to serve as a &lt;strong>Youth Editor&lt;/strong> for the journal &lt;em>&lt;strong>Research&lt;/strong>&lt;/em> (Science Partner Journal, IF = 11.0).&lt;/p>
+&lt;p>&lt;strong>01/2025&lt;/strong>: &lt;strong>The new lab is established!&lt;/strong> Dr. Song joins the Department of Biomedical Engineering at City University of Hong Kong as an &lt;strong>Assistant Professor&lt;/strong>.
+&lt;br>
+&lt;div class="short-code-image " >
+&lt;img src="https://xinsong-lab.github.io/images/news/25.1.svg" />
+&lt;/div>&lt;/p></description></item></channel></rss>
