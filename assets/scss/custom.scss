@@ -1,0 +1,430 @@
+// Override this file to add your own SCSS styling.
+
+
+//$navbar-theme-bg-primary:  #17535d; //导航栏背景色
+$navbar-theme-bg-primary: unset; //导航栏背景色
+$navbar-theme-text-primary: #002060 ;  // #bf165e; //导航栏前景文字颜色
+$navbar-theme-top-line-primary: #8dc015; //导航栏顶部横线颜色
+$text-normal: #2e2e2e;
+
+$bg-color: #f7f7f7;
+
+
+body {
+  background-color: $bg-color;
+}
+
+.page-header-not-animate   {
+
+}
+
+h1  {
+color: $navbar-theme-text-primary;
+}
+
+h3.article-title a:hover, a:hover {
+  color: unset;
+  text-decoration: unset;
+}
+
+.navbar {
+  background-color: $navbar-theme-bg-primary;
+  box-shadow: none;
+  padding-top: 2rem;
+}
+
+.navbar-brand img {
+  display: inline-block;
+}
+
+#navbar-main .main-menu-item ul li .nav-link {
+  //color: $navbar-theme-text-primary;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.navbar-light {
+  font-family: inherit;
+  .navbar-brand {
+    //color: $navbar-theme-text-primary;
+  }
+}
+
+
+
+.logo-r-text {
+  font-size: 1rem;
+  padding-left: 1rem;
+}
+
+
+
+
+.home-section {
+  background: $bg-color;
+}
+
+//.home-section:nth-of-type(even) {
+//  background: #f7f7f7;
+//}
+
+
+.wg-lab-intro {
+  padding: 1rem 0;
+  .lab-intro {
+    h1 {
+      text-align: center;
+    }
+    .intro-text {
+      width: 80%;
+      margin:  0 auto;
+      text-align: justify;
+      padding: 1rem 0;
+      line-height: 2rem;
+    }
+  }
+
+
+}
+
+
+
+.people-author-detail-page {
+  .intro-content {
+    width: 80%;
+    margin:  0 auto;
+    text-align: justify;
+    padding: 1rem 0;
+    line-height: 2rem;
+  }
+}
+
+
+
+.home-video-wrapper {
+  height: 428px;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+}
+
+#section-hero {
+
+  // background-color: #ffffff;
+
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 1rem;
+    height: 1rem;
+  }
+
+  .hero-title {
+    font-size: 1.5rem;
+  }
+
+  .hero-lead {
+    font-size: 0.8rem;
+  }
+}
+
+#section-news {
+  h1 {
+    font-size: 1.4rem;
+  }
+
+  .card-simple .article-title {
+    font-size: 0.8rem;
+  }
+
+  .card-simple .article-style {
+    font-size: 0.8rem;
+  }
+
+
+}
+
+.home-video-wrapper {
+  position: relative;
+
+
+}
+
+
+
+.home-cell-item {
+  margin-top: 1em;
+}
+
+
+#section-home-selected-pubs {
+  ul, li {
+    list-style: disc;
+  }
+  li {
+    padding-top: 1rem;
+  }
+}
+
+.article-single-wrap {
+  .article-title {
+    padding: 2rem 0 3rem 0;
+  }
+
+  .article-content {
+    padding: 1rem 0;
+    li {
+      list-style: auto;
+      padding: 1rem 0;
+    }
+  }
+}
+
+
+
+.people-list-wrap  {
+  .member-card {
+    display: flex;
+    margin: 1.3rem 0.5rem;
+
+    a {
+      color: $text-normal;
+    }
+
+
+    .member-img {
+      a {
+        width: 180px;
+        display: block;
+      }
+
+
+      img {
+        max-width: unset;
+        width: 150px;
+        height: 150px;
+        object-fit: contain;
+        background: #fff;
+      }
+    }
+
+    .card-title {
+      font-size: 1.1rem;
+    }
+  }
+}
+
+
+.article-title {
+  h1 {
+    font-size: 1.6rem;
+    font-weight: unset;
+  }
+
+}
+
+
+.publication-list-wrap {
+
+  .image-icons {
+    display: flex;
+    .image-icon {
+      margin: 0 1rem 2rem 0  ;
+    }
+    img {
+      margin-right: 1rem;
+    }
+  }
+
+  .article-title {
+    padding: 2rem 0 3rem 0;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+
+  }
+
+  .list_thesis .txt {
+    p {
+      padding: 0.5rem 0 0 0;
+
+      a {
+        line-height: 32px;
+        color: #666;
+        font-size: 0.85rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+  }
+
+  .list_thesis .pub-list-item  {
+    border-top: 1px solid #ddd;
+    padding: 3rem 0;
+
+    .txt p {
+      color: #666666;
+      font-size: 0.9rem;
+      a:hover {
+        color: #fff;
+      }
+    }
+    .author-text {
+      padding: 1rem 0;
+    }
+    .journal-text {
+      padding: 1rem 0;
+      font-weight: bold;
+    }
+  }
+
+
+  .patents-list {
+
+    border-top: 1px solid #ddd;
+    h1 {
+
+    }
+    ol {
+      counter-reset: my-counter 7; /* 7为列表项数量 */
+    }
+    li {
+      list-style: decimal;
+    }
+  }
+
+}
+
+.news-items-wrapper{
+  .agents-items-primary {
+    h3, p {
+      text-align: center;
+    }
+    h3 {
+      padding: 1rem 0 0 0;
+    }
+
+    .cover_img {
+      margin: 0 auto;
+    }
+  }
+}
+.news-items-wrapper{
+  padding: 1rem 0 2rem 1rem;
+
+  .article-title {
+    padding: 2rem 0 3rem 0;
+  }
+
+  .news_item {
+    margin: 0 0 5rem 0;
+  }
+  .event-date {
+    padding: 1rem 0;
+    a {
+      color: #717171;
+    }
+  }
+    .cover_img {
+    overflow: hidden;
+    border-radius: 10px;
+    border: 1px solid #eee;
+  }
+
+  .txt {
+
+    h3 {
+      font-size: 1rem;
+    }
+  }
+}
+
+#news_single_page {
+  .article-content {
+    .short-code-image {
+      img {
+        margin: 0;
+      }
+
+    }
+  }
+}
+.news-single-wrap {
+
+  .cat_name {
+    color: #2c6ed7;
+    padding: 5rem 1rem;
+    text-align: center;
+  }
+}
+
+.agents-single-wrap {
+  .cat_name {
+    color: #2c6ed7;
+    padding: 5rem 1rem;
+    text-align: center;
+  }
+
+  .v_agents_content {
+    p {
+      text-align: center;
+    }
+  }
+}
+
+.common-article {
+  h3 {
+    padding: 1rem 0;
+  }
+  p {
+    padding: 0.5rem 0;
+  }
+}
+
+.copy {
+  margin-top: 6rem;
+}
+
+
+
+.home-resource-section {
+  img {
+    height: 256px;
+  }
+}
+
+
+
+.home-collaborator-section {
+  img {
+    height: 70px;
+    max-width: 100%;
+    margin: 1rem;
+  }
+}
+
+
+
+
+
+//手机
+@media (max-width: 478px) {
+  .universal-wrapper {
+
+  }
+
+  .navbar-brand {
+    margin: 0 auto;
+  }
+
+
+  #navbar-main .main-menu-item ul li .nav-link {
+    color: #2e2e2e;
+  }
+
+  .people-persons-list-row {
+    flex-direction: column;
+  }
+
+
+}
