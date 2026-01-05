@@ -9,41 +9,25 @@
 &lt;p>&lt;strong>Application Requirements&lt;/strong>: Please use the following format for your email subject line: &lt;strong>[PhD/Postdoc/RA Inquiry] - [Your Name] - [Your Current Institution]&lt;/strong>&lt;/p>
 &lt;p>Please attach the following documents:&lt;/p>
 &lt;ol>
-&lt;li>
-&lt;p>&lt;strong>CV&lt;/strong> (including a full list of publications).&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Representative papers&lt;/strong> (combined into a single PDF).&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Research Summary Slides&lt;/strong> (a brief presentation introducing your past research work).&lt;/p>
-&lt;/li>
+&lt;li>&lt;strong>CV&lt;/strong> (including a full list of publications).&lt;/li>
+&lt;li>&lt;strong>Representative papers&lt;/strong> (combined into a single PDF).&lt;/li>
+&lt;li>&lt;strong>Research Summary Slides&lt;/strong> (a brief presentation introducing your past research work).&lt;/li>
 &lt;/ol></description></item><item><title>Teaching</title><link>https://xinsong-lab.github.io/teaching/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/teaching/</guid><description>&lt;h3 id="teaching">Teaching&lt;/h3>
 &lt;p>I teach undergraduate and postgraduate courses in biomedical engineering, biomaterials, and robotics, with an emphasis on translating fundamental principles into practical healthcare technologies.&lt;/p>
 &lt;h3 id="courses-taught">Courses Taught&lt;/h3>
 &lt;h4 id="20252026--semester-b">2025–2026 · Semester B&lt;/h4>
-&lt;ul>
-&lt;li>Biorobotics (BME6115 / BME8129) &lt;br> Postgraduate course, City University of Hong Kong&lt;/li>
-&lt;li>Biorobotics (BME6115) &lt;br> Postgraduate course, City University of Hong Kong (Dongguan)&lt;/li>
-&lt;/ul>
+&lt;p>Biorobotics (BME6115 / BME8129) &lt;br>
+Postgraduate course, City University of Hong Kong&lt;br>
+Biorobotics (BME6115) &lt;br>
+Postgraduate course, City University of Hong Kong (Dongguan)&lt;/p>
 &lt;h4 id="20252026--semester-a">2025–2026 · Semester A&lt;/h4>
-&lt;ul>
-&lt;li>
-&lt;p>Advanced Biomaterials for Healthcare and Biomedical Applications (BME6136 / BME8136)&lt;/p>
-&lt;p>Postgraduate course, City University of Hong Kong&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Tissue Engineering (BME2104)&lt;/p>
-&lt;p>Undergraduate course, City University of Hong Kong&lt;/p>
-&lt;/li>
-&lt;/ul>
+&lt;p>Advanced Biomaterials for Healthcare and Biomedical Applications (BME6136 / BME8136)&lt;br>
+Postgraduate course, City University of Hong Kong&lt;br>
+Tissue Engineering (BME2104)&lt;br>
+Undergraduate course, City University of Hong Kong&lt;/p>
 &lt;h4 id="20242025">2024–2025&lt;/h4>
-&lt;ul>
-&lt;li>
-&lt;p>Engineering Design and Applications (MAEG3920)&lt;/p>
-&lt;p>Undergraduate course, The Chinese University of Hong Kong&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://xinsong-lab.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/admin/config.yml</guid><description/></item><item><title>News</title><link>https://xinsong-lab.github.io/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/news/</guid><description>&lt;p>&lt;strong>12/2025:&lt;/strong> Our review paper has been accepted by &lt;em>&lt;strong>Nature Reviews Bioengineering&lt;/strong>&lt;/em>!
+&lt;p>Engineering Design and Applications (MAEG3920)&lt;br>
+Undergraduate course, The Chinese University of Hong Kong&lt;/p></description></item><item><title/><link>https://xinsong-lab.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/admin/config.yml</guid><description/></item><item><title>News</title><link>https://xinsong-lab.github.io/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinsong-lab.github.io/news/</guid><description>&lt;p>&lt;strong>12/2025:&lt;/strong> Our review paper has been accepted by &lt;em>&lt;strong>Nature Reviews Bioengineering&lt;/strong>&lt;/em>!
 &lt;br>
 &lt;div class="short-code-image " >
 &lt;img src="https://xinsong-lab.github.io/images/news/25.12.png" />
@@ -76,7 +60,7 @@
 &lt;p>&lt;strong>03/2025&lt;/strong>: &amp;ldquo;Our paper “Untethered miniature robots for minimally invasive thrombus treatment: From bench to clinical trials” has been published in &lt;em>&lt;strong>The Innovation&lt;/strong>&lt;/em>!&amp;rdquo;
 &lt;br>
 &lt;div class="short-code-image " >
-&lt;img src="https://xinsong-lab.github.io/images/news/25.3.jpg" />
+&lt;img src="https://xinsong-lab.github.io/images/news/25.3.png" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;strong>03/2025&lt;/strong>: &amp;ldquo;Our review paper “Robotic-Assisted Endovascular Embolization: Progress and Future Perspectives” has been published in &lt;em>&lt;strong>Smartbot&lt;/strong>&lt;/em> and selected as the &lt;strong>Inside Front Cover&lt;/strong>!&amp;rdquo;&lt;br>
 &lt;br>
