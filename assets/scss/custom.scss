@@ -7,7 +7,8 @@ $navbar-theme-text-primary: #002060 ;  // #bf165e; //导航栏前景文字颜色
 $navbar-theme-top-line-primary: #8dc015; //导航栏顶部横线颜色
 $text-normal: #2e2e2e;
 
-$bg-color: #f7f7f7;
+//$bg-color: #f7f7f7;
+$bg-color: #ffffff;
 
 
 body {
@@ -64,9 +65,9 @@ h3.article-title a:hover, a:hover {
   background: $bg-color;
 }
 
-//.home-section:nth-of-type(even) {
-//  background: #f7f7f7;
-//}
+.home-section:nth-of-type(even) {
+  background:  $bg-color;
+}
 
 
 .wg-lab-intro {
@@ -402,6 +403,22 @@ h3.article-title a:hover, a:hover {
     margin: 1rem;
   }
 }
+
+
+
+#join_us_single_page {
+  ol {
+    padding: 0 1rem;
+  }
+  li {
+    padding: 0;
+  }
+}
+
+
+
+
+
 
 
 

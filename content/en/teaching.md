@@ -19,25 +19,23 @@ I teach undergraduate and postgraduate courses in biomedical engineering, biomat
 
 ###  Courses Taught
 
-
-
 ####    2025–2026 · Semester B
-- Biorobotics (BME6115 / BME8129) <br>  Postgraduate course, City University of Hong Kong
-- Biorobotics (BME6115)  <br>  Postgraduate course, City University of Hong Kong (Dongguan)
+
+Biorobotics (BME6115 / BME8129) <br>
+Postgraduate course, City University of Hong Kong<br>
+Biorobotics (BME6115)  <br>
+Postgraduate course, City University of Hong Kong (Dongguan)
 
 
 
 ####    2025–2026 · Semester A
 
-- Advanced Biomaterials for Healthcare and Biomedical Applications (BME6136 / BME8136)
-  
-  Postgraduate course, City University of Hong Kong
- 
-- Tissue Engineering (BME2104)
-  
-  Undergraduate course, City University of Hong Kong
+ Advanced Biomaterials for Healthcare and Biomedical Applications (BME6136 / BME8136)<br>
+  Postgraduate course, City University of Hong Kong<br>
+  Tissue Engineering (BME2104)<br>
+  Undergraduate course, City University of Hong Kong 
 
 ####    2024–2025
-- Engineering Design and Applications (MAEG3920)
-  
+
+ Engineering Design and Applications (MAEG3920)<br>
   Undergraduate course, The Chinese University of Hong Kong

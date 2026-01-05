@@ -2,9 +2,9 @@
 
 title: Join us
 date: 2022-10-24
-
- 
- 
+  
+  
+page_id: join_us_single_page
 
 
 ---
@@ -22,7 +22,5 @@ If you are passionate about research and eager to make an impact, please send yo
 Please attach the following documents:
   
 1.	**CV** (including a full list of publications).
-              
 2.	**Representative papers** (combined into a single PDF).
-              
 3.	**Research Summary Slides** (a brief presentation introducing your past research work).

@@ -20,6 +20,7 @@
 
 
       {{ range $block.content.user_groups }}
+        {{- $group_name := . -}}
           {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
 
           {{/* Sort */}}
@@ -90,6 +91,11 @@
 
 
                         </div>
+
+                            {{if eq $group_name "PI"}}
+                              <div class="col-12 col-md-6 mt-5 ">{{.Content}}</div>
+                            {{end }}
+
                       {{ end }}
 
 

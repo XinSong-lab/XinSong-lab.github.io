@@ -42,7 +42,7 @@ page_id: news_single_page
 **04/2025**:  Welcome **Mr. Junliang Chen** (MEng from HIT Shenzhen) joining us as a Research Assistant.
 
 **03/2025**:  "Our paper “Untethered miniature robots for minimally invasive thrombus treatment: From bench to clinical trials” has been published in _**The Innovation**_!" 
-  <br>{{< image src="images/news/25.3.jpg" >}}
+  <br>{{< image src="images/news/25.3.png" >}}
 
 **03/2025**:  "Our review paper “Robotic-Assisted Endovascular Embolization: Progress and Future Perspectives” has been published in _**Smartbot**_ and selected as the **Inside Front Cover**!"  
   <br>{{< image src="images/news/25.3.1.jpg" >}}
