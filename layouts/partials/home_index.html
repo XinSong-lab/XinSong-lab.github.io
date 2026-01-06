@@ -4,6 +4,9 @@ jQuery轮播效果（Carousell）
 注意 prev nextl 两个button的href id 和 setction id要一致
 https://blog.csdn.net/chenmo2001/article/details/117674446
 */}}
+
+
+{{/*
 {{ $heroBlock := .Params.heroBlock }}
 {{ $slider_hash_id := "hero_sliders" }}
 {{ $slider_args := dict "wcPage" $ "wcBlock" .Params.heroSlideBlock "wcIdentifier" $slider_hash_id }}
@@ -13,6 +16,14 @@ https://blog.csdn.net/chenmo2001/article/details/117674446
          id="{{ $slider_hash_id }}">
         {{ partial "blocks/slider.html" $slider_args }}
     </div>
+  </div>
+</section>
+*/}}
+
+
+<section id="section-lab-image" class="home-section wg-lab-intro">
+  <div class="mt-1">
+    <div ><img src="{{ "images/home/s1.png" | relURL }}" style="margin: auto;" /></div>
   </div>
 </section>
 
