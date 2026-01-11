@@ -39,7 +39,7 @@ page_id: news_single_page
 
 **05/2025**:  Our lab has received an Internal Funding Opportunity from City University of Hong Kong. We are grateful for the support!
 
-**04/2025**:  Welcome **Mr. Junliang Chen** (MEng from HIT Shenzhen) joining us as a Research Assistant.
+**05/2025**:  Welcome **Mr. Junliang Chen** (MEng from HIT Shenzhen) joining us as a Research Assistant.
 
 **03/2025**:  "Our paper “Untethered miniature robots for minimally invasive thrombus treatment: From bench to clinical trials” has been published in _**The Innovation**_!" 
   <br>{{< image src="images/news/25.3.png" >}}
