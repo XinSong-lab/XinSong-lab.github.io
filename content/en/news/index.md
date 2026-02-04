@@ -9,6 +9,7 @@ page_id: news_single_page
   
 ---
 **01/2026:** Dr. Song joined City University of Hong Kong (Dongguan) as an Adjunct Assistant Professor. Please check [official website](https://faculty.cityu-dg.edu.cn/?lang=en&alphabet=S).
+<br>{{< image src="images/news/cityu-dg.jpg" >}}
 
 **01/2026:** Dr. Song was invited to join the Editorial Board of [Advanced Mechatronics](https://www.sciltp.com/journals/am/editorial-board).
 
