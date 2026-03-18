@@ -2,10 +2,10 @@ pubs:
 
   - number: "35"
     authors: "__Xin Song__* , Li Zhang* et al."
-    title: ""
+    title: "Biophysics-informed design of biohybrid microrobots"
     journal: "Nature Reviews Bioengineering"
-    details: "2026, Accepted"
-    link: ""
+    details: "2026, s44222-026-00416-8"
+    link: "https://www.nature.com/articles/s44222-026-00416-8"
   - number: "34"
     authors: "Yanan Che, __Xin Song__* , and Li Zhang*"
     title: "Engineering Microalgae-Based Biohybrid Robots for Biomedical Applications"
