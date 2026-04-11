@@ -1,5 +1,10 @@
 pubs:
-
+  - number: "36"
+    authors: "Chen Xin, Yihang Jiang, __Xin Song__, Junjia Guo, Kai Fung Chan*, Qilin Li, Dong Wu, Philip Wai Yan Chiu, Ho Cheung Shum, Joseph Jao Yiu Sung, Zheng Wang*, Lin Wang*, Li Zhang*"
+    title: "Endoluminal delivery and expansion-induced anchoring of multiple miniature robots in Y-shaped biliary tract"
+    journal: "Device"
+    details: "2026, 101119"
+    link: "https://doi.org/10.1016/j.device.2026.101119"
   - number: "35"
     authors: "Xingping Quan, Bonan Sun, __Xin Song__* , Li Zhang*"
     title: "Biophysics-informed design of biohybrid microrobots"
