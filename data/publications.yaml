@@ -1,4 +1,10 @@
 pubs:
+  - number: "37"
+  authors: "Ziyue Ling, Xijing Yang, Xianda Liu, Shifan Chen, Ningyue Deng, Yujie Xiao, Wenjie Wang, Jianxu Bao, Yuhui Feng, Hongyu Xiang, Yilin Wang, __Xin Song__, Changsheng Zhao*, Weifeng Zhao*"
+  title: "Lipo-protein deposition strategy towards smart microspheres with bacterial toxin triggered “adsorption-pore formation-immune regulation” cascade reaction for sepsis treatment"
+  journal: "Biomaterials"
+  details: "2026, 124437"
+  link: "https://doi.org/10.1016/j.biomaterials.2026.124437"
   - number: "36"
     authors: "Chen Xin, Yihang Jiang, __Xin Song__, Junjia Guo, Kai Fung Chan*, Qilin Li, Dong Wu, Philip Wai Yan Chiu, Ho Cheung Shum, Joseph Jao Yiu Sung, Zheng Wang*, Lin Wang*, Li Zhang*"
     title: "Endoluminal delivery and expansion-induced anchoring of multiple miniature robots in Y-shaped biliary tract"
