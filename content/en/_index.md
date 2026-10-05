@@ -69,6 +69,7 @@ selected_publications: |
   - X. Song et al., **Advanced Materials**, 2022, 2204791
   - X. Song# et al., **Advanced Materials**, 2023, 2207791.
   - X. Song* et al., **The Innovation**, 2025, 100874
+  <br><small>* Corresponding author&ensp;&ensp;# Co-first author</small>
 
 join_us_title: Join Us
 join_us_content: |

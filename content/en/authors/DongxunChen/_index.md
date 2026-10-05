@@ -22,7 +22,7 @@ email:
 telephone:
 
 
-sort_order: 10
+sort_order: 20
 
 ---
 
