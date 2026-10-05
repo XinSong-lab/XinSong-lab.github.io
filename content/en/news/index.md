@@ -8,13 +8,21 @@ page_id: news_single_page
 
   
 ---
+**09/2026:**  We are delighted to welcome **Mr. Shiwen Wu** and **Ms. Yixuan Wang** as new Master's students joining the group.
+
+**07/2026:**  A warm welcome to **Mr. Xiong Zhou**, a PhD candidate from our department, for joining the group.
+
+**05/2026:**  Dr. Song served as a member of the **Organizing Committee** of the _inaugural_ **HKRFA Symposium on AI & Digital Health**, held on 16 May 2026 at The Park Lane Hong Kong. The Symposium brought together researchers and scholars to discuss how artificial intelligence is transforming healthcare, covering medical imaging, digital health, drug discovery, surgical robotics, and brain-computer interfaces. Please check the [event highlights and photos](https://www.hkrfa.hk/en/event/Symposium2026Photo/).
+<br>{{< image src="images/news/26.5.jpg" >}}
+
 **01/2026:** Dr. Song joined City University of Hong Kong (Dongguan) as an Adjunct Assistant Professor. Please check [official website](https://faculty.cityu-dg.edu.cn/?lang=en&alphabet=S).
-<br>{{< image src="images/news/cityu-dg.jpg" >}}
 
 **01/2026:** Dr. Song was invited to join the Editorial Board of [Advanced Mechatronics](https://www.sciltp.com/journals/am/editorial-board).
 
 **12/2025:** Our review paper has been accepted by _**Nature Reviews Bioengineering**_!
 <br>{{< image src="images/news/25.12.png" >}}
+
+**11/2025:**  Dr. Song was selected as an **Asia-Pacific U30 Outstanding Young Leader**, recognizing young researchers and innovators in the Asia-Pacific region. Please see the [announcement](https://weibo.com/7887288881/Qc1n9D2pm?pagetype=profilefeed).
 
 **11/2025**:  We are delighted to welcome **Ms. Jieqiong Yang**, a PhD candidate from our department, to the group.
 
