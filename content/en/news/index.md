@@ -8,13 +8,13 @@ page_id: news_single_page
 
   
 ---
-**09/2026:**  Junliang's review paper has been accepted by _**Advanced Mechatronics**_.
+**09/2026:**  Congratulations! Junliang's review paper has been accepted by _**Advanced Mechatronics**_.
 
 **09/2026:**  We are delighted to welcome **Mr. Shiwen Wu** and **Ms. Yixuan Wang** as new Master's students joining the group.
 
 **08/2026:**  Congratulations to **Mr. Ansel Chau** on successfully passing his Dissertation!
 
-**07/2026:**  Our pH-responsive microrobot paper has been published in _**Science Advances**_ and highlighted by _**Nature Biotechnology**_ as a [Research Highlight](https://www.nature.com/articles/s41587-026-03274-2).
+**07/2026:**  Our collaborative paper on pH-responsive microrobots has been published in _**Science Advances**_ and highlighted by _**Nature Biotechnology**_ as a [Research Highlight](https://www.nature.com/articles/s41587-026-03274-2).
 
 **07/2026:**  A warm welcome to **Mr. Xiong Zhou**, a PhD candidate from our department, for joining the group.
 
