@@ -416,6 +416,20 @@ h3.article-title a:hover, a:hover {
 }
 
 
+// Teaching page: tighten the space between course entries.
+// The shared rule further up sets `.article-single-wrap .article-content li`
+// to `padding: 1rem 0`, i.e. ~32px between two adjacent items, which looks
+// far too airy for a plain course list. Scoping by page id keeps this
+// change from touching any other single page (news, join us, research...).
+#teaching_single_page {
+  .article-content {
+    li {
+      padding: 0.2rem 0;
+    }
+  }
+}
+
+
 
 
 

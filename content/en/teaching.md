@@ -2,6 +2,7 @@
 
 title: Teaching
 date: 2022-10-24
+page_id: teaching_single_page
 
  
  
@@ -12,7 +13,6 @@ date: 2022-10-24
 
   
   
-###   Teaching
               
 I teach undergraduate and postgraduate courses in biomedical engineering, biomaterials, and robotics, with an emphasis on translating fundamental principles into practical healthcare technologies.
 

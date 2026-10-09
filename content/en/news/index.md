@@ -18,27 +18,27 @@ page_id: news_single_page
 
 **07/2026:**  A warm welcome to **Mr. Xiong Zhou**, a PhD candidate from our department, for joining the group.
 
-**06/2026:**  We have received funding from the RGC **Early Career Scheme**. We are grateful to the Hong Kong Research Grants Council for supporting our research.
+**06/2026:**  We have received an ECS grant from the Hong Kong Research Grants Council. We are grateful for their support of our research.
 
-**05/2026:**  Dr. Song served as a member of the Organizing Committee of the inaugural HKRFA Symposium on AI & Digital Health, held on 16 May 2026 at The Park Lane Hong Kong. Please check the [event highlights and photos](https://www.hkrfa.hk/en/event/Symposium2026Photo/).
+**05/2026:**  Prof. Song served as a member of the Organizing Committee of the inaugural HKRFA Symposium on AI & Digital Health, held on 16 May 2026 at The Park Lane Hong Kong. Please check the [event highlights and photos](https://www.hkrfa.hk/en/event/Symposium2026Photo/).
 <br>{{< image src="images/news/26.5.jpg" >}}
 
-**05/2026:**  Dr. Song was invited to join the Editorial Board of [Precision Manufacturing](https://pm.iacademic.info/EN/editorial).
+**05/2026:**  Prof. Song was invited to join the Editorial Board of [Precision Manufacturing](https://pm.iacademic.info/EN/editorial).
 
-**01/2026:** Dr. Song joined City University of Hong Kong (Dongguan) as an Adjunct Assistant Professor. Please check [official website](https://faculty.cityu-dg.edu.cn/?lang=en&alphabet=S).
+**01/2026:** Prof. Song joined City University of Hong Kong (Dongguan) as an Adjunct Assistant Professor. Please check [official website](https://faculty.cityu-dg.edu.cn/?lang=en&alphabet=S).
 
-**01/2026:** Dr. Song was invited to join the Editorial Board of [Advanced Mechatronics](https://www.sciltp.com/journals/am/editorial-board).
+**01/2026:** Prof. Song was invited to join the Editorial Board of [Advanced Mechatronics](https://www.sciltp.com/journals/am/editorial-board).
 
 **12/2025:** Our review paper has been accepted by _**Nature Reviews Bioengineering**_!
 <br>{{< image src="images/news/25.12.png" >}}
 
-**11/2025:**  Dr. Song was selected as an **Asia-Pacific U30 Outstanding Young Leader**. Please see the [announcement](https://weibo.com/7887288881/Qc1n9D2pm?pagetype=profilefeed).
+**11/2025:**  Prof. Song was selected as an **Asia-Pacific U30 Outstanding Young Leader**. Please see the [announcement](https://weibo.com/7887288881/Qc1n9D2pm?pagetype=profilefeed).
 
 **11/2025**:  We are delighted to welcome **Ms. Jieqiong Yang**, a PhD candidate from our department, to the group.
 
 **11/2025**:  A warm welcome to **Mr. Yicheng Xu**, a Master's student from our department, for joining the group.
 
-**10/2025**:  Dr. Song is appointed as a **Youth Editorial Board Member** for the journal _**Regenerative Biomaterials**_ (IF = 8.1).
+**10/2025**:  Prof. Song is appointed as a **Youth Editorial Board Member** for the journal _**Regenerative Biomaterials**_ (IF = 8.1).
 
 **09/2025**:  Welcome **Dr. Yilin Wang** (Ph.D. from Sichuan University) joining us as a Postdoctoral Fellow.
 
@@ -46,7 +46,7 @@ page_id: news_single_page
 
 **09/2025**:  Big congratulations to **Mr. Junliang Chen** for commencing his PhD studies with us!
 
-**07/2025**:  Dr. Song joins the **Youth Editorial Board** of _**Nano-Micro Letters**_ (IF = 36.3).
+**07/2025**:  Prof. Song joins the **Youth Editorial Board** of _**Nano-Micro Letters**_ (IF = 36.3).
 
 **07/2025**:  Welcome **Dr. Dongxun Chen** (Ph.D. from Shandong University) joining us as a Postdoctoral Fellow.
 
@@ -70,7 +70,7 @@ page_id: news_single_page
   <br>{{< image src="images/news/25.3.1.jpg" >}}
 
 
-**01/2025**:  Dr. Song is invited to serve as a **Youth Editor** for the journal _**Research**_ (Science Partner Journal, IF = 11.0).
+**01/2025**:  Prof. Song is invited to serve as a **Youth Editor** for the journal _**Research**_ (Science Partner Journal, IF = 11.0).
 
-**01/2025**:  **The new lab is established!** Dr. Song joins the Department of Biomedical Engineering at City University of Hong Kong as an **Assistant Professor**.
+**01/2025**:  **The new lab is established!** Prof. Song joins the Department of Biomedical Engineering at City University of Hong Kong as an **Assistant Professor**.
   <br>{{< image src="images/news/25.1.svg" >}}
