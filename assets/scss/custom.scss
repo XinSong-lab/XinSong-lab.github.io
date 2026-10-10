@@ -426,6 +426,14 @@ h3.article-title a:hover, a:hover {
     li {
       padding: 0.2rem 0;
     }
+
+    // The base template resets every heading and list to `margin: 0; padding: 0`,
+    // so "As Course Instructor/Guest Lecturer" sits flush against the list above it.
+    // A Markdown blank line won't help (blank lines are collapsed), hence CSS.
+    // `ul + h4` targets only a heading that follows a list, i.e. the 2nd group.
+    ul + h4 {
+      padding-top: 1.5rem;
+    }
   }
 }
 
