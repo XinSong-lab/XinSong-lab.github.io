@@ -211,6 +211,27 @@ h3.article-title a:hover, a:hover {
       font-size: 1.1rem;
     }
   }
+
+  // PI 简介：与左侧名片并排，顶部间距对齐姓名，行距放宽便于阅读
+  .pi-bio {
+    padding: 1.4rem 0 0 0;
+    line-height: 1.85;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  // Alumni：只列姓名，无照片、无详细信息
+  .alumni-row {
+    padding: 0.3rem 0 0.6rem 0;
+  }
+
+  .alumni-item {
+    color: $text-normal;
+    padding-top: 0.35rem;
+    padding-bottom: 0.35rem;
+  }
 }
 
 
@@ -382,8 +403,46 @@ h3.article-title a:hover, a:hover {
   }
 }
 
+/* 页脚友情链接（数据来自 params.yaml 的 friendly_links） */
+.footer-links {
+  margin-top: 5rem;
+
+  h4 {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-links-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 2.5rem;
+    row-gap: 0.4rem;
+
+    li {
+      list-style: none;
+      padding: 0;
+    }
+
+    a {
+      color: $text-normal;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    .footer-link-aff {
+      color: #797979;
+      font-size: 0.9em;
+    }
+  }
+}
+
 .copy {
-  margin-top: 6rem;
+  margin-top: 2rem;
 }
 
 

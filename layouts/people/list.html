@@ -1,6 +1,5 @@
 {{- define "main" -}}
 
-
     {{/* Initialise */}}
     {{ $block := index .Params.sections 0 }}
     {{ $show_social := $block.design.show_social | default false }}
@@ -17,8 +16,6 @@
       </div>
     {{ end }}
 
-
-
       {{ range $block.content.user_groups }}
         {{- $group_name := . -}}
           {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
@@ -30,7 +27,6 @@
           {{ $sort_order := cond $sort_ascending "asc" "desc" }}
           {{ $query = sort $query $sort_by $sort_order }}
 
-
           {{if $query | and (gt (len $block.content.user_groups) 1) }}
             <div class="type_box list_box" style="flex:1;">
               <div class="sub_cat_item" >
@@ -38,79 +34,74 @@
                   <h3 class="">{{ . | markdownify }}</h3>
                 </div>
 
-                <div class="  row">
+                {{ if eq $group_name "Alumni" }}
 
-                      {{ range $query }}
-                          {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
-                          {{/* Get link to user's profile page. */}}
-                          {{ $link := "" }}
-                          {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
-                              {{ $link = .RelPermalink }}
-                          {{ end }}
+                  {{/* Alumni are listed as plain names: no photo, no details, no link. */}}
+                  <div class="row alumni-row">
+                    {{ range $query }}
+                      <div class="col-12 col-sm-6 col-lg-4 alumni-item">{{ .Title }}</div>
+                    {{ end }}
+                  </div>
 
-                        <div class="col-12 col-md-6 ">
-                            {{ $src := "" }}
-                            {{ if site.Params.features.avatar.gravatar }}
-                                {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
-                            {{ else if $avatar }}
-                                {{/*{{ $avatar_image := $avatar.Fill "270x270 Center" }}
-                                {{ $src = $avatar_image.RelPermalink }}*/}}
-                                {{ $src = $avatar.RelPermalink }}
+                {{ else }}
+
+                  <div class="row">
+
+                    {{ range $query }}
+                        {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+                        {{ $is_pi := eq $group_name "PI" }}
+                        {{ $col_class := cond $is_pi "col-12 col-md-5" "col-12 col-md-6" }}
+
+                        {{ $src := "" }}
+                        {{ if site.Params.features.avatar.gravatar }}
+                            {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+                        {{ else if $avatar }}
+                            {{ $src = $avatar.RelPermalink }}
+                        {{ end }}
+
+                      <div class="{{ $col_class }}">
+                        <div class=" member-card row" >
+
+                          <div class="col-6 col-md-4">
+                            {{ if $src }}
+                              <div class=" member-img">
+                                <img src="{{ $src }}" class=" " alt="{{ .Title }}" />
+                              </div>
                             {{ end }}
-
-
-                          <div class=" member-card row" >
-
-                            <div class="col-6 col-md-4">
-                              {{ if $src }}
-                                <div class=" member-img">
-                                  <a  href="{{ $link }}" class="member-a-link"><img  src="{{ $src }}" class=" " alt="" /></a>
-                                </div>
-                              {{ end }}
-                            </div>
-
-                            <div class="col-6  col-md-8">
-                                <div class="card-desc">
-                                <h5 class="card-title"><a  href="{{ $link }}" class="member-a-link">{{ .Title }}</a></h5>
-                                <div class="card-text">
-
-                                   {{/*content*/}}
-                                  {{/*{{ with .Content }}<div class="ml-content">{{ . | markdownify | emojify }}</div>{{ end }}*/}}
-                                  {{/*{{ if .Content }}<div class="ml-content"><a  href="{{ $link }}" class="member-a-link">{{ .Summary | markdownify | emojify }}</a></div>{{ end }}*/}}
-
-                                  {{ with .Params.role }}<div class="ml-role"><a  href="{{ $link }}" class="member-a-link">{{ . | markdownify | emojify }}</a></div>{{ end }}
-                                  {{ with .Params.university }}<div class="ml-university"><a  href="{{ $link }}" class="member-a-link">{{ . | markdownify | emojify }}</a></div>{{ end }}
-                                   {{ with .Params.email }}<div class="ml-university"><a  href="{{ $link }}" class="member-a-link">Email: {{ . | markdownify | emojify }}</a></div>{{ end }}
-                                  {{ with .Params.telephone }}<div class="ml-university"><a  href="{{ $link }}" class="member-a-link">Tel: {{ . | markdownify | emojify }}</a></div>{{ end }}
-                                  {{ with .Params.office }}<div class="ml-university"><a  href="{{ $link }}" class="member-a-link">Office: {{ . | markdownify | emojify }}</a></div>{{ end }}
-                                </div>
-                            </div>
-                            </div>
                           </div>
 
+                          <div class="col-6  col-md-8">
+                              <div class="card-desc">
+                              <h5 class="card-title">{{ .Title }}</h5>
+                              <div class="card-text">
 
-
+                                {{ with .Params.role }}<div class="ml-role">{{ . | markdownify | emojify }}</div>{{ end }}
+                                {{ with .Params.university }}<div class="ml-university">{{ . | markdownify | emojify }}</div>{{ end }}
+                                {{ with .Params.email }}<div class="ml-university">Email: {{ . | markdownify | emojify }}</div>{{ end }}
+                                {{ with .Params.telephone }}<div class="ml-university">Tel: {{ . | markdownify | emojify }}</div>{{ end }}
+                                {{ with .Params.office }}<div class="ml-university">Office: {{ . | markdownify | emojify }}</div>{{ end }}
+                              </div>
+                          </div>
+                          </div>
                         </div>
+                      </div>
 
-                            {{if eq $group_name "PI"}}
-                              <div class="col-12 col-md-6 mt-5 ">{{.Content}}</div>
-                            {{end }}
-
+                      {{ if $is_pi }}
+                        <div class="col-12 col-md-7 pi-bio">{{ .Content }}</div>
                       {{ end }}
 
+                    {{ end }}
 
-                </div>
+                  </div>
+
+                {{ end }}
 
               </div>
             </div>
           {{end}}
 
-
       {{ end }}
 
 </div>
-
-
-
 
 {{- end -}}

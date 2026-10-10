@@ -15,6 +15,8 @@ sections:
           - Postdoctoral Fellows
           - PhD students
           - Master Student
+          - Undergraduate Students
+          - Alumni
           
       sort_by: Params.sort_order
       sort_ascending: true

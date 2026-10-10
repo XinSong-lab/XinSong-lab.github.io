@@ -24,7 +24,7 @@ email:
 telephone:
 
 
-sort_order: 50
+sort_order: 40
 
 ---
 

@@ -6,7 +6,7 @@ title: Yilin Wang (王艺霖)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Fellows
+  - Alumni
 
 
 # Role/position
@@ -24,7 +24,7 @@ email:
 telephone:
 
 
-sort_order: 30
+sort_order: 100
 
 ---
 
