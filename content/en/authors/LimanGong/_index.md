@@ -16,7 +16,7 @@ user_groups:
 # Role/position
 role: 
 
-university: Joint with SCU <br> B.S. Beijing Forestry University (北京林业大学)
+university: B.S. Beijing Forestry University (北京林业大学)
 
 
 major: 

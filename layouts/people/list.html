@@ -50,7 +50,10 @@
                     {{ range $query }}
                         {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
                         {{ $is_pi := eq $group_name "PI" }}
-                        {{ $col_class := cond $is_pi "col-12 col-md-5" "col-12 col-md-6" }}
+                        {{/* PI 名片原来是 col-md-5，文字列太窄导致长行折行、
+                            而且文字块被撑满整列，看不出"块居中"的效果。
+                            放宽到 col-md-6 后行不折、左右留白对称。 */}}
+                        {{ $col_class := "col-12 col-md-6" }}
 
                         {{ $src := "" }}
                         {{ if site.Params.features.avatar.gravatar }}
@@ -72,6 +75,7 @@
 
                           <div class="col-6  col-md-8">
                               <div class="card-desc">
+                              <div class="desc-inner">
                               <h5 class="card-title">{{ .Title }}</h5>
                               <div class="card-text">
 
@@ -81,13 +85,14 @@
                                 {{ with .Params.telephone }}<div class="ml-university">Tel: {{ . | markdownify | emojify }}</div>{{ end }}
                                 {{ with .Params.office }}<div class="ml-university">Office: {{ . | markdownify | emojify }}</div>{{ end }}
                               </div>
+                              </div>
                           </div>
                           </div>
                         </div>
                       </div>
 
                       {{ if $is_pi }}
-                        <div class="col-12 col-md-7 pi-bio">{{ .Content }}</div>
+                        <div class="col-12 col-md-6 pi-bio">{{ .Content }}</div>
                       {{ end }}
 
                     {{ end }}

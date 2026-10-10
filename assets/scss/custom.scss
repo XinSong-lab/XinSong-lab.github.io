@@ -212,19 +212,45 @@ h3.article-title a:hover, a:hover {
     }
   }
 
-  // PI 名片：姓名、职务、单位、联系方式整块在卡片内居中
+  // PI 名片：老师要的是「文字块整体居中、但每一行仍左对齐」
+  // （2026-10-11 明确：不是每行各自居中，那样左右两边都参差）。
+  // 做法：外层 text-align:center 让 .desc-inner 这个 inline-block 整体居中，
+  // 内层再 text-align:left 把每一行拉回左对齐。
   .pi-card {
+    // 照片列收窄到 176px（150px 照片 + 左右各 12px 栅格内边距），
+    // 省下的宽度全给文字列，文字块居中时左右留白才看得出来。
+    // 只在 md 及以上生效：手机上两列各占 50%，这里若强改宽度会把文字列挤没。
+    @media (min-width: 768px) {
+      > :first-child {
+        flex: 0 0 176px;
+        max-width: 176px;
+      }
+
+      > :last-child {
+        flex: 0 0 calc(100% - 176px);
+        max-width: calc(100% - 176px);
+      }
+    }
+
     .card-desc {
       text-align: center;
     }
+
+    .desc-inner {
+      display: inline-block;
+      text-align: left;
+    }
   }
 
-  // PI 简介：与左侧名片并排，顶部间距对齐姓名，行距放宽便于阅读。
+  // PI 简介：与左侧名片并排。
+  // 老师的反馈是"上面空白太多、最下面太挤"，所以上边距压到最小、下边距留出余量，
+  // 相当于把整段正文往上提，底部不再贴住下一个分组。
   // 关键：不要用 padding 简写把左右内边距清零。简介列是 .row 的直接子元素，
   // .row 的负外边距会让整行比 .sub_cat_item 宽出 30px，而该容器是 overflow: hidden，
   // 一旦清掉 15px 的列内边距，正文最右侧 1~2 个字符就会被裁掉。
   .pi-bio {
-    padding-top: 1.4rem;
+    padding-top: 0.2rem;
+    padding-bottom: 1.1rem;
     line-height: 1.85;
 
     p {
