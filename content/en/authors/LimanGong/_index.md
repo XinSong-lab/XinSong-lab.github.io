@@ -10,7 +10,7 @@ title: Liman Gong (龚丽满)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Student
+  - "Master's Students"
 
 
 # Role/position

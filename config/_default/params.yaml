@@ -54,17 +54,23 @@ header:
 #      share_alike: true
 #      allow_commercial: false
 
-# Related links, shown at the bottom of every page
+# Friendly links (友情链接), shown at the bottom of every page
 friendly_links:
-  - name: Prof. Changsheng Zhao
+  - name: Prof. Changsheng Zhao's Lab
     affiliation: Sichuan University
     url: 'https://www.x-mol.com/groups/zhao_changsheng'
-  - name: Prof. Molly M. Stevens
+  - name: The Stevens Group
     affiliation: Imperial College London
-    url: 'https://www.stevensgroup.org/professor-stevens'
-  - name: Prof. Li Zhang
+    url: 'https://www.stevensgroup.org/'
+  - name: Zhang Research Lab
     affiliation: The Chinese University of Hong Kong
     url: 'https://microbot.mae.cuhk.edu.hk/'
+  - name: CityU BME
+    affiliation: City University of Hong Kong
+    url: 'https://www.cityu.edu.hk/bme/'
+  - name: College of Polymer Science and Engineering
+    affiliation: Sichuan University
+    url: 'https://cpse.scu.edu.cn/'
 
 # Localization
 

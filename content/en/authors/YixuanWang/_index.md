@@ -4,7 +4,7 @@ title: Yixuan Wang (王奕暄)
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Master Student
+  - "Master's Students"
 
 
 # Role/position

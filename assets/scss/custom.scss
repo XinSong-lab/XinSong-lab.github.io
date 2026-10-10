@@ -212,9 +212,19 @@ h3.article-title a:hover, a:hover {
     }
   }
 
-  // PI 简介：与左侧名片并排，顶部间距对齐姓名，行距放宽便于阅读
+  // PI 名片：姓名、职务、单位、联系方式整块在卡片内居中
+  .pi-card {
+    .card-desc {
+      text-align: center;
+    }
+  }
+
+  // PI 简介：与左侧名片并排，顶部间距对齐姓名，行距放宽便于阅读。
+  // 关键：不要用 padding 简写把左右内边距清零。简介列是 .row 的直接子元素，
+  // .row 的负外边距会让整行比 .sub_cat_item 宽出 30px，而该容器是 overflow: hidden，
+  // 一旦清掉 15px 的列内边距，正文最右侧 1~2 个字符就会被裁掉。
   .pi-bio {
-    padding: 1.4rem 0 0 0;
+    padding-top: 1.4rem;
     line-height: 1.85;
 
     p {
@@ -222,15 +232,18 @@ h3.article-title a:hover, a:hover {
     }
   }
 
-  // Alumni：只列姓名，无照片、无详细信息
+  // Alumni：只列姓名，无照片、无详细信息。
+  // 其他分组的名片有 0.5rem 外边距 + 栅格 12px 内边距，
+  // 这里补上同级缩进，否则姓名会紧贴分组框左边框。
   .alumni-row {
     padding: 0.3rem 0 0.6rem 0;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .alumni-item {
     color: $text-normal;
-    padding-top: 0.35rem;
-    padding-bottom: 0.35rem;
+    padding: 0.35rem 1rem;
   }
 }
 

@@ -14,7 +14,7 @@ sections:
           - PI
           - Postdoctoral Fellows
           - PhD students
-          - Master Student
+          - "Master's Students"
           - Undergraduate Students
           - Alumni
           
