@@ -61,13 +61,6 @@ page_id: news_single_page
 
 <div class="news-item">
 
-**04/2026:**  Prof. Song and Dr. Yilin Wang's proposal has been funded by the CityU Research Enhancement Grant. We are grateful for the support of our research.
-
-</div>
-
-
-<div class="news-item">
-
 **05/2026:**  Prof. Song served as a member of the Organizing Committee of the inaugural HKRFA Symposium on AI & Digital Health, held on 16 May 2026 at The Park Lane Hong Kong. Please check the [event highlights and photos](https://www.hkrfa.hk/en/event/Symposium2026Photo/).
 <br>{{< image src="images/news/26.5.jpg" >}}
 
@@ -76,7 +69,21 @@ page_id: news_single_page
 
 <div class="news-item">
 
+**05/2026:**  Prof. Song was interviewed by _**Scientific Chinese**_. Please see the [report](https://mp.weixin.qq.com/s/kPQNC6UK6fAF6qjFCO65Bw).
+
+</div>
+
+
+<div class="news-item">
+
 **05/2026:**  Prof. Song was invited to join the Editorial Board of [Precision Manufacturing](https://pm.iacademic.info/EN/editorial).
+
+</div>
+
+
+<div class="news-item">
+
+**04/2026:**  Prof. Song and Dr. Yilin Wang's proposal has been funded by the CityU Research Enhancement Grant. We are grateful for the support of our research.
 
 </div>
 
@@ -193,13 +200,6 @@ page_id: news_single_page
 
 **06/2025**: Our paper “Engineering microalgae-based biohybrid robots for biomedical applications” has been published in _**Cell Biomaterials**_!.
 <br>{{< image src="images/news/25.6.png" >}}
-
-</div>
-
-
-<div class="news-item">
-
-**05/2025**:  Our lab has received an Internal Funding Opportunity from City University of Hong Kong. We are grateful for the support!
 
 </div>
 
