@@ -408,6 +408,36 @@ h3.article-title a:hover, a:hover {
       }
 
     }
+
+    // 每条新闻在 index.md 里已用 <div class="news-item"> 包住，
+    // 这里做灰/白交替底色，像press release 列表一样一眼能区分条目。
+    .news-item {
+      padding: 0.9rem 1rem;
+      background: #ffffff;
+
+      &:nth-of-type(even) {
+        background: #f4f5f6;
+      }
+
+      // 模板把所有标题/段落的 margin、padding 都清零了（template.scss:513），
+      // 所以条目之间的分隔完全由下面的 padding 和交替底色承担。
+      p {
+        margin: 0;
+        line-height: 1.7;
+      }
+
+      .short-code-image {
+        margin-top: 0.7rem;
+
+        img {
+          display: block;
+          margin: 0;
+          max-width: 100%;
+          height: auto;
+          border-radius: 6px;
+        }
+      }
+    }
   }
 }
 .news-single-wrap {
