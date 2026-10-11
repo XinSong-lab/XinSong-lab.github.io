@@ -69,7 +69,7 @@ page_id: news_single_page
 
 <div class="news-item">
 
-**05/2026:**  Prof. Song was interviewed by _**Scientific Chinese**_. Please see the [report](https://mp.weixin.qq.com/s/kPQNC6UK6fAF6qjFCO65Bw).
+**05/2026:**  Prof. Song was interviewed by _**Scientific Chinese**_, and the interview was featured in its media coverage. Please see the [media coverage here](https://mp.weixin.qq.com/s/kPQNC6UK6fAF6qjFCO65Bw).
 
 </div>
 
