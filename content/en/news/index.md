@@ -61,6 +61,13 @@ page_id: news_single_page
 
 <div class="news-item">
 
+**04/2026:**  Prof. Song and Dr. Yilin Wang's proposal has been funded by the CityU Research Enhancement Grant. We are grateful for the support of our research.
+
+</div>
+
+
+<div class="news-item">
+
 **05/2026:**  Prof. Song served as a member of the Organizing Committee of the inaugural HKRFA Symposium on AI & Digital Health, held on 16 May 2026 at The Park Lane Hong Kong. Please check the [event highlights and photos](https://www.hkrfa.hk/en/event/Symposium2026Photo/).
 <br>{{< image src="images/news/26.5.jpg" >}}
 
@@ -171,6 +178,13 @@ page_id: news_single_page
 
 **07/2025**: The collaborative research paper “Permanent magnetic droplet–derived microrobots” has been published in _**Science Advances**_.
 <br>{{< image src="images/news/25.7.1.png" >}} 
+
+</div>
+
+
+<div class="news-item">
+
+**06/2025**:  Prof. Song's teaching proposal has been funded by the CityU Teaching Development Grant. We are grateful for their support.
 
 </div>
 
