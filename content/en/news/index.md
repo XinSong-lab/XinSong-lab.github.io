@@ -12,6 +12,9 @@ page_id: news_single_page
 
 **09/2026:**  We are delighted to welcome **Mr. Shiwen Wu** and **Ms. Yixuan Wang** as new Master's students joining the group.
 
+**08/2026:**  The cover of our review “Robotic-Assisted Endovascular Embolization: Progress and Future Perspectives” in _**Smartbot**_ received the **Distinguished Cover Award** at the 7th Annual Conference of China Robotics Society.
+<br>{{< image src="images/news/26.8.jpg" >}}
+
 **08/2026:**  Congratulations to **Mr. Ansel Chau** on successfully passing his Dissertation!
 
 **07/2026:**  Our collaborative paper on pH-responsive microrobots has been published in _**Science Advances**_ and highlighted by _**Nature Biotechnology**_ as a [Research Highlight](https://www.nature.com/articles/s41587-026-03274-2).

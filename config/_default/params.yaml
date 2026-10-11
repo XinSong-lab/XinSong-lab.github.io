@@ -54,8 +54,8 @@ header:
 #      share_alike: true
 #      allow_commercial: false
 
-# Friendly links (友情链接), shown at the bottom of every page
-friendly_links:
+# Related links (友情链接), shown at the bottom of every page
+related_links:
   - name: Prof. Changsheng Zhao's Lab
     affiliation: Sichuan University
     url: 'https://www.x-mol.com/groups/zhao_changsheng'
