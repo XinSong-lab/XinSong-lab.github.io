@@ -183,6 +183,13 @@ page_id: news_single_page
 
 <div class="news-item">
 
+**07/2025**:  Our collaborative paper with CUHK in _**Nature Communications**_ was featured by the Beijing-Hong Kong Academic Exchange Centre (京港學術交流中心). Please see the [report](https://mp.weixin.qq.com/s/AmTtnt_o3lKz8PnCWRwWOw).
+
+</div>
+
+
+<div class="news-item">
+
 **07/2025**: The collaborative research paper “Permanent magnetic droplet–derived microrobots” has been published in _**Science Advances**_.
 <br>{{< image src="images/news/25.7.1.png" >}} 
 
