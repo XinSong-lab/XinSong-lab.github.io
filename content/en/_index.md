@@ -64,7 +64,8 @@ research_topic3: Bio-inspired, biohybrid, and bio-derived robotic systems for he
 selected_publications_title: Selected Publications
 selected_publications: |
   - X. Song et al., **Nature Biomedical Engineering**, 2021, 5, 1143-1156.
-  - X. Song* et al., **Nature Reviews Bioengineering**, 2026.
+  - X. Song* et al., **Nature Reviews Bioengineering**, 2026, s44222-026-00416-8.
+  - X. Song# et al., **Advanced Materials**, 2026, accepted.
   - X. Song* et al., **Cell Biomaterials**, 2025, 100103.
   - X. Song et al., **Advanced Materials**, 2022, 2204791
   - X. Song# et al., **Advanced Materials**, 2023, 2207791.
