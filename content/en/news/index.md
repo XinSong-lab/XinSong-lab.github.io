@@ -11,6 +11,20 @@ page_id: news_single_page
 
 <div class="news-item">
 
+**10/2026:**  Prof. Song has been selected to the **Early Career Board** of _**ACS Biomaterials Science & Engineering**_.
+
+</div>
+
+
+<div class="news-item">
+
+**10/2026:**  Our paper “Active Targeting Across Scales in Medical Robotics” has been accepted by _**Advanced Materials**_.
+
+</div>
+
+
+<div class="news-item">
+
 **09/2026:**  Congratulations! Junliang's review paper has been accepted by _**Advanced Mechatronics**_.
 
 </div>
